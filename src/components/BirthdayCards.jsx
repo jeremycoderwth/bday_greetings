@@ -33,6 +33,15 @@ const BirthdayCards = () => {
       content: `happiest birthday, naya!! u're one of the most creative people that i know, i really admire you for that. continue doing what u love & thank u for making me realize a lot of things. love u, girlyy!!! enjoy ur day 💘`,
       coverColor: "from-pink-100 to-purple-100",
       envelope: "bg-pink-200",
+    },
+    {
+      id: 3,
+      from: "Fay",
+      title: "Sweet message from one of your close friends",
+      type: "letter",
+      content: `Happy Birthday, sweet Janaya! You are one of the girlies na I never expected to be this close with. I'm really happy to have someone like you in my life. To have that kakampi who would never think twice to defend and listen to our rants. I miss you and I'll see you this month! I love you, our daughter!`,
+      coverColor: "from-blue-100 to-blue-200",
+      envelope: "bg-blue-200",
     }
   ];
 

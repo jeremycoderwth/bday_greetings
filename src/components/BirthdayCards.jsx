@@ -36,7 +36,7 @@ const BirthdayCards = () => {
     },
     {
       id: 3,
-      from: "Fay",
+      from: "Fayrie",
       title: "Sweet message from one of your close friends",
       type: "letter",
       content: `Happy Birthday, sweet Janaya! You are one of the girlies na I never expected to be this close with. I'm really happy to have someone like you in my life. To have that kakampi who would never think twice to defend and listen to our rants. I miss you and I'll see you this month! I love you, our daughter!`,

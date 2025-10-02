@@ -42,6 +42,15 @@ const BirthdayCards = () => {
       content: `Happy Birthday, sweet Janaya! You are one of the girlies na I never expected to be this close with. I'm really happy to have someone like you in my life. To have that kakampi who would never think twice to defend and listen to our rants. I miss you and I'll see you this month! I love you, our daughter!`,
       coverColor: "from-blue-100 to-blue-200",
       envelope: "bg-blue-200",
+    },
+    {
+      id: 4,
+      from: "esha",
+      title: "Sweet message from one of your close friends",
+      type: "letter",
+      content: `happy birthday naya!!! can't believe it's been years since we've been friends. i've met you as a minor and now you're in legal age and have grown into a great person. hope you get to live the life you always dream of, whatever things you do in life i'll always be here to support you. i love and miss you baby girl let's meet soon please.`,
+      coverColor: "from-purple-100 to-indigo-100",
+      envelope: "bg-purple-200",
     }
   ];
 

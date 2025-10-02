@@ -21,14 +21,14 @@ const BirthdayCards = () => {
       from: "Your Bubba",
       title: "A Special Message Just For You",
       type: "letter",
-      content: `Happy happy birthday loveyyyyy! Sana magustuhan mo yung flowers or if di mo man makita now, may flowers ka hehehe lam mo na saan makukuha ah as of now di pa open sila so later hihi I LOVE YOUUUUU SO MUCHHHH!!`,
+      content: `Happy happy birthday loveyyyyy! Sana magustuhan mo yung flowers and this website i made, it may not much but i hope it makes you smile and feel special this birthday mo hihi I LOVE YOUUUUU SO MUCHHHH!!`,
       coverColor: "from-pink-100 to-orange-100",
       envelope: "bg-gray-400",
     },
     {
       id: 2,
       from: "Emma - Anti-Keira",
-      title: "Galit na galit kay keira",
+      title: "Kaanib sa anti-keira",
       type: "letter",
       content: `happiest birthday, naya!! u're one of the most creative people that i know, i really admire you for that. continue doing what u love & thank u for making me realize a lot of things. love u, girlyy!!! enjoy ur day 💘`,
       coverColor: "from-pink-100 to-purple-100",
@@ -36,8 +36,8 @@ const BirthdayCards = () => {
     },
     {
       id: 3,
-      from: "Fayrie",
-      title: "Sweet message from one of your close friends",
+      from: "Fayrie - Your Mother",
+      title: "Sweet message from your mother Fay",
       type: "letter",
       content: `Happy Birthday, sweet Janaya! You are one of the girlies na I never expected to be this close with. I'm really happy to have someone like you in my life. To have that kakampi who would never think twice to defend and listen to our rants. I miss you and I'll see you this month! I love you, our daughter!`,
       coverColor: "from-blue-100 to-blue-200",
@@ -45,12 +45,21 @@ const BirthdayCards = () => {
     },
     {
       id: 4,
-      from: "esha",
-      title: "Sweet message from one of your close friends",
+      from: "esha - Your Mother",
+      title: "Sweet message from your beloved Esha",
       type: "letter",
       content: `happy birthday naya!!! can't believe it's been years since we've been friends. i've met you as a minor and now you're in legal age and have grown into a great person. hope you get to live the life you always dream of, whatever things you do in life i'll always be here to support you. i love and miss you baby girl let's meet soon please.`,
       coverColor: "from-purple-100 to-indigo-100",
       envelope: "bg-purple-200",
+    },
+    {
+      id: 5,
+      from: "ck - pogi",
+      title: "Message ni sikyey sayo be",
+      type: "letter",
+      content: `happy birthday ri, naul may website na may google form pa, pinag exam pa ni sir jeremy. more bdays to come bro, ingat ka palagi our soon to be jay costura <3 thx sa advices and for being there to listen to my rantz and storiez labyu saur much di gagawin sayo ni jeo ong ‘to, boto aq kay jemeri`,
+      coverColor: "from-blue-100 to-purple-200",
+      envelope: "bg-indigo-200"
     }
   ];
 

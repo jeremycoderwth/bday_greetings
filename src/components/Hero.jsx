@@ -14,7 +14,7 @@ const Hero = ({ currentPage }) => {
           <Sparkles className="w-12 h-12 animate-pulse" />
         </div>
         <h1 className="text-5xl md:text-6xl font-bold mb-4 tracking-tight">
-          Happy Birthday!
+          Happy Birthday, Bubby!
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-2">
           {currentPage === "greetings" && "A Collection of Love & Wishes"}
